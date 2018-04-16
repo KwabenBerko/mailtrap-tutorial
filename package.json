@@ -1,0 +1,38 @@
+{
+  "name": "mailtrap-tutorial",
+  "version": "1.0.0",
+  "description": "A Tutorial on Email Testing using Mailtrap.io",
+  "main": "final/app.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0",
+    "nodemailer": "^4.6.4",
+    "validator": "^9.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KwabenBerko/mailtrap-tutorial.git"
+  },
+  "keywords": [
+    "email",
+    "sandbox",
+    "testing",
+    "mailtrap",
+    "mailtrap.io",
+    "tutorial",
+    "javascript",
+    "node.js",
+    "express.js"
+  ],
+  "author": "Kwabena Berko <kwabenaberko95@gmail.com> (https://github.com/KwabenBerko)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KwabenBerko/mailtrap-tutorial/issues"
+  },
+  "homepage": "https://github.com/KwabenBerko/mailtrap-tutorial#readme"
+}
